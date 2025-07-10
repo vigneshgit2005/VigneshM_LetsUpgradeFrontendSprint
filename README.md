@@ -76,4 +76,4 @@ This project was built for learning purposes, inspired by real-world tech events
 
 ---
 
-Let me know if you'd like the README formatted for GitHub with badges or links!
+
