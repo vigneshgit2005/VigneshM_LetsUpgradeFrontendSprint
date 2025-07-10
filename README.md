@@ -28,23 +28,23 @@ Includes event name, date, location, tagline, and CTA buttons.
 
 ### 🧭 About the Event  
 Overview of why the event is important and who should attend.  
-![About Section](assets/about-section.png)
+![About Section](images/about.jpg)
 
 ### 📆 Agenda  
 Detailed two-day schedule with session times and speaker info.  
-![Agenda Section](assets/agenda-section.png)
+![Agenda Section](images/agneda.jpg)
 
 ### 🎤 Speakers  
 Cards introducing expert speakers with title and short bio.  
-![Speakers Section](assets/speakers-section.png)
+![Speakers Section](images/speakers.jpg)
 
 ### 🏆 Prizes  
 Visually appealing reward tiers for competitions and participation.  
-![Prizes Section](assets/prizes-section.png)
+![Prizes Section](images/prizes.jpg)
 
 ### 📝 Registration Form  
 Clean and well-laid out HTML form for attendee registration.  
-![Registration Section](assets/registration-section.png)
+![Registration Section](images/register.jpg)
 
 ### 📌 Footer  
 Includes quick links, contact information, social handles, and partners.
