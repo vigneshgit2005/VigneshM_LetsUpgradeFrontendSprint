@@ -23,13 +23,32 @@ Welcome to the official repository for **CodeFusion 2025**, a fictional event la
 
 ## 🖼️ Features
 
-* **Hero Section** – Includes event name, date, location, tagline, and CTA buttons.
-* **About the Event** – Overview of why the event is important and who should attend.
-* **Agenda** – Detailed two-day schedule with session times and speaker info.
-* **Speakers** – Cards introducing expert speakers with title and short bio.
-* **Prizes** – Visually appealing reward tiers for competitions and participation.
-* **Registration Form** – Clean and well-laid out HTML form for attendee registration.
-* **Footer** – Includes quick links, contact information, social handles, and partners.
+### ✨ Hero Section  
+Includes event name, date, location, tagline, and CTA buttons.
+
+### 🧭 About the Event  
+Overview of why the event is important and who should attend.  
+![About Section](assets/about-section.png)
+
+### 📆 Agenda  
+Detailed two-day schedule with session times and speaker info.  
+![Agenda Section](assets/agenda-section.png)
+
+### 🎤 Speakers  
+Cards introducing expert speakers with title and short bio.  
+![Speakers Section](assets/speakers-section.png)
+
+### 🏆 Prizes  
+Visually appealing reward tiers for competitions and participation.  
+![Prizes Section](assets/prizes-section.png)
+
+### 📝 Registration Form  
+Clean and well-laid out HTML form for attendee registration.  
+![Registration Section](assets/registration-section.png)
+
+### 📌 Footer  
+Includes quick links, contact information, social handles, and partners.
+
 
 ---
 
